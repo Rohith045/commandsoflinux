@@ -26,3 +26,15 @@ Wc file_name
 E.g:- 
 Wc -l /var/lib/example_file
 
+Mv  oka dir lo unna  file ni permanent ga inko inko directory lo ki mv command use chesi move cheyochu 
+
+syntax:-
+mv old_filename/directoryname new_filename/directoryname
+e.g:- 
+Mv /var/lib/example_file /var/lib/example_6t
+
+syntax:-
+Mv source_location destination_loaction
+e.g:-
+mv /opt/rohith/example_dir /opt/teja/example_directory
+
