@@ -44,3 +44,7 @@ Cp source_location destination_location
 E.g:-
 Cp /Users/teja.txt /Users/rohit/
 
+Free free command how much memory used and remaining how much is  available in the system
+Free -m 
+free -g
+
