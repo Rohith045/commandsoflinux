@@ -20,3 +20,9 @@ syntax:-
 which command_name
 E.g:- 
 
+Wc:-   number of lines, word count, byte and characters count chestundhi
+syntax:-
+Wc file_name
+E.g:- 
+Wc -l /var/lib/example_file
+
