@@ -15,3 +15,8 @@ Head -n number of lines  filename
 e.g:-
 head -n 1000 ~/var/log/example.log
 
+Which:- displays the location of command executable 
+syntax:-
+which command_name
+E.g:- 
+
