@@ -3,3 +3,10 @@ file lo unna data ni read chesi dantlo unnu content ni display chestundhi dentlo
 Cat  file name 
 Cat  ~/example123/rohith-learning/linux-training/teja.txt
 
+Tail:- file lo last lo enni lines data istha anni lines data print chestundhi
+syntax:-
+Tail -n  number of lines  filename 
+e.g:-
+Tail -n 100 ~/var/log/example.log
+
+
