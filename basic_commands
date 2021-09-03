@@ -9,4 +9,9 @@ Tail -n  number of lines  filename
 e.g:-
 Tail -n 100 ~/var/log/example.log
 
+Head :- file lo first lines display chestundhi 
+Syntax:- 
+Head -n number of lines  filename 
+e.g:-
+head -n 1000 ~/var/log/example.log
 
