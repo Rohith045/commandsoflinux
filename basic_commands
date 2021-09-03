@@ -38,3 +38,9 @@ Mv source_location destination_loaction
 e.g:-
 mv /opt/rohith/example_dir /opt/teja/example_directory
 
+Cp oka dir lo unna file ni inko dir loki copy chestundhi but patha dir lo file alana untundhi 
+syntax:-
+Cp source_location destination_location
+E.g:-
+Cp /Users/teja.txt /Users/rohit/
+
